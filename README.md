@@ -1,8 +1,7 @@
 **BACKEND FOR A FOOD WEBSITE**
 
-This is a backend for a food website's Backend. The api can be used to check for logging in, signing in, adding items to your menu, updating the item, 
+This is a backend for a food website. The api can be used to check for logging in, signing in, adding items to your menu, updating the item, 
 deleting the item, creating an order and checking the orders made by a user. 
-The api runs on the localhost:3000.
 
 **Methods**
 
